@@ -1,0 +1,161 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.header {
+  height: 300px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin: auto;
+  width: 50%;
+  padding: 0.8rem;
+  text-align: center;
+}
+
+.icon * {
+  padding: 4px;
+  margin-bottom: 15px;
+}
+span {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.topHeader {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+.nav-list > li {
+  padding: 9px;
+  color: #737373;
+  font-weight: 400;
+}
+.h5 {
+  font-weight: 700;
+  margin-top: 20px;
+  color: #252b42;
+}
+.upsection {
+  height: 121px;
+  margin-left: 0.8rem;
+  padding-left: 1.25rem;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.img {
+  padding-top: 11.5px;
+}
+.Midsection > ul {
+  text-align: left;
+  margin-left: 0.8rem;
+  padding-left: 1.25rem;
+  padding: 0.8rem;
+  width: 80%;
+  padding-top: 70px;
+  font-weight: 700;
+}
+h3 {
+  color: #252b42;
+}
+.Midsection > ul > li {
+  padding: 8px;
+
+  color: #737373;
+  font-size: 14px;
+}
+
+.input {
+  margin-left: 0.8rem;
+  padding-left: 1.25rem;
+  /* padding-top: 20px; */
+}
+
+.input > form > input {
+  padding: 15px;
+  background-color: #e6e6e6;
+  border-radius: 5px;
+}
+
+.input > form > button {
+  padding: 15px;
+  background-color: #23a6f0;
+  color: #e6e6e6;
+  border-radius: 5px;
+}
+.input > p {
+  color: #737373;
+  font-size: 12px;
+}
+
+.Lastsection {
+  text-align: center;
+  margin-left: 0.8rem;
+  padding-left: 1.25rem;
+  margin-top: 10px;
+  padding-top: 10px;
+  color: #737373;
+  padding: 25px 0px 25px 0px;
+  background-color: #fafafa;
+}
+.images {
+  padding: 20px;
+  width: 100%;
+  position: relative;
+}
+.product-card {
+  width: 300px;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 20px;
+  padding: 20px;
+  color: white;
+}
+.items {
+  color: #2dc071;
+  font-weight: 700;
+}
+.read {
+  color: #252b42;
+  font-weight: 700;
+}
+
+.container > div {
+  padding: 20px;
+  margin: 20px;
+  /* text-align: center; */
+}
+.inner {
+  width: auto;
+  height: 254px;
+  text-align: center;
+  padding: 35px, 40px, 35px, 40px;
+}
+.innerstyle {
+  text-align: center;
+}
+.container > div > h3 {
+  color: #252b42;
+}
+.container > div > p {
+  color: #737373;
+}
+.innerstyle > h3 {
+  font-weight: 700;
+  color: #252b42;
+}
+.innerstyle > h4 {
+  color: #737373;
+}
