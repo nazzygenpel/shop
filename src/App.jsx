@@ -8,7 +8,7 @@ import Header from "./components/Header.jsx";
 import Mobilehero from "./components/Mobilehero.jsx";
 import Services from "./components/Services.jsx";
 import Bestsellerproduct from "./components/Bestsellerproduct.jsx";
-// import Problems from "./components/Problems.jsx";
+import Problems from "./components/Problems.jsx";
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
       <Bestsellerproduct />
       <Services />
       <Featuredproducts />
-      {/* <Problems /> */}
+      <Problems />
       <Aboutus />
 
       <Footer />

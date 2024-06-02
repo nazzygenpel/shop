@@ -316,7 +316,6 @@ h3 {
   padding: 80px 0px 80px 0px;
   gap: 24px;
   opacity: 0px;
-  border: 1px dotted blue;
 }
 .bestproduct-header > h3 {
   font-size: 24px;
@@ -365,4 +364,70 @@ h3 {
   color: #23a6f0;
   padding: 20px;
   margin: 0px auto;
+}
+.problem-container {
+  height: 712px;
+  padding: 112px 0px 112px 0px;
+}
+.problem-header {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: center;
+  color: #23a6f0;
+}
+.problem-text {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: center;
+  color: #252b42;
+  width: 95%;
+}
+.actual-problem-container {
+  width: 22.375rem;
+  height: 30.5rem;
+  gap: 36px;
+  opacity: 0px;
+  margin-left: 6%;
+}
+.actual-problem-container > h3 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: center;
+  color: #23856d;
+  margin-top: 1.563rem;
+}
+.second-problem-text {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: center;
+  width: 17.938rem;
+  margin-left: 2.5rem;
+  margin-top: 2.5rem;
+}
+.actual-problem-container > button {
+  background-color: #23a6f0;
+  color: #ffffff;
+  width: 285px;
+  height: 52px;
+  padding: 15px 40px 15px 40px;
+  gap: 10px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  margin-top: 2.7rem;
+  border-style: none;
+  margin: 12%;
+}
+form {
+  border-style: none;
+}
+.upsection {
+  background-color: #fafafa;
 }
