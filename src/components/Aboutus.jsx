@@ -1,4 +1,3 @@
-// import React from 'react'
 import User from "../assets/user.png";
 import Stars from "../assets/stars.png";
 import Aboutimage from "../assets/aboutimages.png";
@@ -26,8 +25,6 @@ export default function Aboutus() {
       <div className="aboutus-image">
         <img src={Aboutimage} alt="AboutUsImage" />
       </div>
-
-      <div></div>
     </div>
   );
 }
