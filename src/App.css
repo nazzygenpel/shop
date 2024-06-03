@@ -18,7 +18,16 @@
   padding: 0.8rem;
   text-align: center;
 }
-
+.nav-list > a {
+  text-decoration: none;
+  color: #444;
+  font-weight: 500;
+  transition: color 0.3s ease-in-out;
+}
+.nav-list a:hover {
+  color: #117964;
+  transition: color 0.3s ease-in-out;
+}
 .icon * {
   padding: 4px;
   margin-bottom: 15px;
@@ -42,6 +51,7 @@ span {
   color: #737373;
   font-weight: 400;
 }
+
 .h5 {
   font-weight: 700;
   margin-top: 20px;
@@ -415,7 +425,7 @@ h3 {
 .actual-problem-container > button {
   background-color: #23a6f0;
   color: #ffffff;
-  width: 285px;
+  width: 17.813rem;
   height: 52px;
   padding: 15px 40px 15px 40px;
   gap: 10px;

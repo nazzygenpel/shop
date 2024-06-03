@@ -19,10 +19,18 @@ export default function Header() {
 
       <div>
         <ul className="nav-list">
-          <li>Home</li>
-          <li>Product</li>
-          <li>Pricing</li>
-          <li>Contact</li>
+          <li>
+            <a href="#home">Home</a>
+          </li>
+          <li>
+            <a href="#product">Product</a>
+          </li>
+          <li>
+            <a href="#pricing">Pricing</a>
+          </li>
+          <li>
+            <a href="#contact">Contact</a>
+          </li>
         </ul>
       </div>
     </div>
